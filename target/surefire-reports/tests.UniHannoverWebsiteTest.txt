@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tests.UniHannoverWebsiteTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 291.2 s -- in tests.UniHannoverWebsiteTest
